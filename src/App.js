@@ -1,6 +1,7 @@
 import Header from './Components/Header';
 import Doc from './Components/Doc';
 import Security from './Components/Security';
+import ExApi from './Components/ExApi.js';
 import { Switch, Route, BrowserRouter as Router } from 'react-router-dom';
 function App() {
     return (
@@ -21,7 +22,7 @@ function App() {
                         show admin stuff
                     </Route>
                     <Route path='/external-api'>
-                        show external api
+                        <ExApi />
                     </Route>
                 </Switch>
             </Router>

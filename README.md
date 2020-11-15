@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Getting Started with project
 
+- Clone the project
+- Remove the associated git files
+- Make Changes
+- Make a new git init that point to your repo
+- Connect to travis (Change the build success image to point to your travis)
+- git push and go Projects which are expected to use this start-code are projects that require all, or most of the 
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+following technologies:
 
 ## Available Scripts
 
