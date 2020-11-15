@@ -18,9 +18,9 @@ function ExApi () {
                     {obj.dadJoke}
                     <h5>Star Wars Planet:</h5>
                     {obj.swPlanet}
-                    <h5>Random Cat Facts</h5>
+                    <h5>Random Cat Facts:</h5>
                     {obj.catFacts}
-                    <h5>Current NBA Phase</h5>
+                    <h5>Current NBA Phase:</h5>
                     {obj.nbaSeasonPhase}
                 </div>
             }
